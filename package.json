@@ -1,0 +1,12 @@
+{
+  "name": "twiter-card-chall",
+  "version": "1.0.0",
+  "description": "the challange slicing twiter cards",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "raffy_samaa",
+  "license": "ISC"
+}
